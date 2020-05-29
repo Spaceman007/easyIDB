@@ -33,3 +33,4 @@ idb.add({ uid: 291898, name: 'Earth' }).then(() => {
 ```
 npm start
 ```
+![](./imgs/chrome_develop.png)
